@@ -148,3 +148,8 @@ minikube ip
 - To get the minikube ip:`192.168.49.2`, in my case.
 - Then combine the ip of minikube and netflix-clone's ip.
 - Which looks like `192.168.49.2:30007` in my case.
+
+<div align="center">
+  <img src="./public/assets/sample.png" alt="Logo" width="100%" height="100%">
+  <p align="center">Home Page</p>
+</div>
